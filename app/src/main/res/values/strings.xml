@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GetWeather</string>
+    <string name="weather_icon_descr">Weather icon</string>
+    <string name="humidity_label">Humidity:</string>
+    <string name="pressure_label">Pressure:</string>
+    <string name="wind_label">Wind:</string>
+    <string name="sunrise_label">Sunrise:</string>
+    <string name="sunset_label">Sunset:</string>
+</resources>
